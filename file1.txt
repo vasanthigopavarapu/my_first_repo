@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-this is vasanthi
-am from vector india
-working for merce technology
-=======
-hi hello how r u
->>>>>>> update-readmy
