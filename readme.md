@@ -1,6 +1,6 @@
 # Vasanthi Gopavarapu
 
-### Geography
+### About me
 
 I live in the city of Baltimore, in the state of Maryland, in the United States
 of America.
